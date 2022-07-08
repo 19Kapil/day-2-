@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hi shivam 
-=======
-Hii kapil
->>>>>>> 214d0b3 (second commit)
